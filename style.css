@@ -1,0 +1,20 @@
+body {
+	background-color: #F0F8FF;
+	font-family: monospace;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.center {
+  padding: 70px 0;
+  border-radius: 25px;
+  border: 3px solid green;
+  text-align: center;
+}
+.artist {
+	text-align: center;
+}
